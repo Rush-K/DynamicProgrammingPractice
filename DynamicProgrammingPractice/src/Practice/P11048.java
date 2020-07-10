@@ -1,7 +1,7 @@
 /** Baekjoon Online Judge
 *   Problem No. 11048
 *   Writed by Rush.K
-*   Using queue For BFS
+*   Using Dynamic Programming Method
 */
 
 package Practice;

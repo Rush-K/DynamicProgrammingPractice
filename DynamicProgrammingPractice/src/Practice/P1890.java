@@ -1,5 +1,6 @@
 /** Baekjoon Online Judge
 *   Problem No. 1890
+*   점프
 *   Writed by Rush.K
 *   Using Dynamic Programming Method
 */

@@ -1,5 +1,6 @@
 /** Baekjoon Online Judge
 *   Problem No. 11048
+*   이동하기
 *   Writed by Rush.K
 *   Using Dynamic Programming Method
 */
